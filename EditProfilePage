@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>EditProfile</title>
+    <link rel="stylesheet" href="E:\Web\CSS\Style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="title">Edit Your Infomation </div>
+      <form action="#">
+
+
+        <div class="user-info">
+          <div class="user-inputs">
+            <span class="inputs">First Name</span>
+            <input type="text" name="" placeholder="First Name">
+            <div class="user-inputs">
+              <span class="inputs">Last Name</span>
+              <input type="text" name="" placeholder="Last Name">
+            </div>
+            <div class="user-inputs">
+              <span class="inputs">User Name</span>
+              <input type="text" name="" placeholder="User Name">
+            </div>
+            <div class="user-inputs">
+              <span class="inputs">Birthday</span>
+              <input type="text" name="" placeholder="Date Of Birth">
+            </div>
+            <div class="user-inputs">
+              <span class="inputs">Gender</span>
+              <input type="text" name="" placeholder="Gender">
+            </div>
+            <div class="user-inputs">
+              <span class="inputs">Email</span>
+              <input type="text" name="" placeholder="Email">
+            </div>
+            <div class="user-inputs">
+              <span class="inputs">Phone Number</span>
+              <input type="text" name="" placeholder="Phone Numebr">
+            </div>
+            <div class="user-inputs">
+              <span class="inputs">School/Major</span>
+              <input type="text" name="" placeholder="School/Major">
+            </div>
+
+            <button style="float:left; margin: 15px 0 0 20%;">Go Back</button>
+            <button style="float:right; margin: 15px 20% 0 0;">Save</button>
+            
+          </div>
+
+        </div>
+      </form>
+    </div>
+
+  </body>
+</html>
