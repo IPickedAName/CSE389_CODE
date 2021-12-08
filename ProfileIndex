@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Profile Page</title>
+  <link rel="stylesheet" href="Style.css">
+
+</head>
+
+<body>
+
+  <div class="main-body">
+    <div class="profile-nav">
+      <div class="user-heading">
+
+        <h1>Dorrrrry</h1>
+        <p>sth@email.com</p>
+        <script src="E:\Web\JS\index.js" charset="utf-8"></script>
+        <div class="profile-photo">
+          <label class="-label" for="file">
+            <span class="camera"></span>
+            <h8><span>Change Photo</span></h8>
+          </label>
+          <input id="file" type="file" onchange="loadPhoto(event)" />
+          <img src="https://static.wikia.nocookie.net/pixar/images/1/1f/Dory-white.jpg/revision/latest?cb=20110924203518" alt="photo" id="pic" width="200" />
+        </div>
+      </div>
+
+      <ul class="navi">
+        <li class="active"><a href="#"> <i class="fa fa-user"></i> Profile</a></li>
+        <li><a href="#"> <i class="fa fa-calendar"></i> My ToDo List <span class="label label-warning pull-right r-activity"></span></a></li>
+        <li><a href="editPage.html"> <i class="fa fa-edit"></i> Edit profile</a></li>
+      </ul>
+    </div>
