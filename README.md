@@ -1,6 +1,6 @@
 # CSE389_CODE
-code for the website
-Group project consisting of Brian, Reyad , Dory, Juriasi
+Code for the website /n
+Group project consisting of Brian, Reyad , Dory, Juriasi /n
 Part of a CSE 389 course final project requiring a proposal website(flesh-out optional) of any application we wished to create. 
 If you have any questions, feel free to ask. Below are the to-do lists as of 11/26/2021.
 I'm still figuring out git but I hope its clear so far. 
